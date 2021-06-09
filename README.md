@@ -12,3 +12,5 @@ This the solution of june leet code challenge.
 4.[Open the Lock](day4.cpp)
 
 5.[Maximum performance of Team](day5.cpp)
+
+9. [Jump Game vi](day9.cpp)
