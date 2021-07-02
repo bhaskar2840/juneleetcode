@@ -17,6 +17,8 @@ This the solution of june leet code challenge.
 
 7. [Min Cost Climbing Stairs](day7.cpp)
 
+## WEEK-2
+
 8. [Construct Binary Tree from Preorder and Inorder Traversal](day8.cpp)
 
 9.  [Jump Game vi](day9.cpp)
@@ -30,6 +32,8 @@ This the solution of june leet code challenge.
 13. [Palindrome Pairs](day13.cpp)
 
 14. [Maximum Units on a Truck](day14.cpp)
+
+## WEEK - 3
 
 15. [Matchsticks to Square](day15.cpp)
 
@@ -45,6 +49,8 @@ This the solution of june leet code challenge.
 
 21. [Pascal's Triangle](day21.cpp)
 
+## WEEK-4
+
 22. [Number of Matching Subsequences](day22.cpp)
 
 23. [Reverse Linked List II ](day23.cpp)
@@ -58,6 +64,8 @@ This the solution of june leet code challenge.
 27. [Candy](day27.cpp)
 
 28. [Remove All Adjacent Duplicates In String Solution](day28.cpp)
+
+## WEEK -5
 
 29. [Max Consecutive Ones III](day29.cpp)
 
